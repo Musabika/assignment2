@@ -1,1 +1,13 @@
 # assignment2
+
+51	222007122	MUNYEMANA	JEAN PAUL	M	GRP 6	
+52	223008892	Murekatete	Kellen	F		
+53	223019597	MURUNGI	Peace	F		
+54	223003195	MUSABIKA	Fidele	M		GRP Leader
+55	223004968	MUSEMAKWELI	Muhamed	M		
+56	223009869	MUSONI	Rodrigue	M		
+57	221007304	MUTONI	AIMABLE	M		
+58	223019732	MUTUZO SHEMA	Gabin	M		
+59	223019996	KAYITESI	Belyse	F		
+60	222002866	IRACYADUKUNDA	FLORENTINE	F		
+<img width="617" height="201" alt="image" src="https://github.com/user-attachments/assets/3352d960-3ebb-417e-b8ff-9d0de6da5ccc" />
